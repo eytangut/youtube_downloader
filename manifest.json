@@ -1,0 +1,7 @@
+{
+    "name": "Simple Youtube Video Downloader",
+    "description": "A Chrome Extension That Simply Downloads Videos From Youtube, With Some Of The Most-Used Formats, For Free!!",
+    "version": "0.2",
+    "author": "eytangut1",
+    "manifest_version": 2
+}
